@@ -245,6 +245,6 @@ restaurant-frontend/
 
 **Built with ❤️ using React, TypeScript, and Tailwind CSS**
 
-### Live Demo
+## 🌐 Live Demo
 
 Check out the live application at: https://foody-hendy-salim.vercel.app/
