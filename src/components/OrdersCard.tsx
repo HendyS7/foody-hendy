@@ -339,7 +339,7 @@ const OrdersCard = () => {
         {/* Status Filters - Container */}
         <div
           ref={statusContainerRef}
-          className={`flex flex-row items-center p-0 gap-3 w-full max-w-[329px] md:max-w-[620px] h-16 md:h-44 overflow-hidden ${
+          className={`flex flex-row items-center p-1 gap-3 w-full max-w-[329px] md:max-w-[620px] h-16 md:h-44 overflow-hidden ${
             isDragging ? 'cursor-grabbing' : 'cursor-grab'
           }`}
           onMouseDown={handleMouseDown}
